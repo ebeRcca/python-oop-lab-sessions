@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two Python programs I wrote while learning the basics of object‑oriented programming (OOP). Each program uses simple classes, attributes, and methods to build a basic system. 
+This repository contains two Python programs I used for learning the basics of object‑oriented programming (OOP). Each program uses simple classes, attributes, and methods to build a basic system. 
 
 ## Programs Included
 
