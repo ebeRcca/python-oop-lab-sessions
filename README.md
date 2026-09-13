@@ -23,7 +23,7 @@ It uses a basic `Account` class with attributes for storing balance and methods 
 A small program that lets a user:
 - add books to the library  
 - register members  
-- borrow and return books for members 
+- borrow and return books for members
 
 It uses classes such as `Book`, `Member`, and `Library` to organise the system’s data and actions.
 
