@@ -7,7 +7,7 @@ This folder contains two Python programs I wrote while learning the basics of ob
 ## Programs Included
 
 ### 1. Banking System
-### File: `simple_banking_system.py`
+**File:** `simple_banking_system.py`
 
 A simple program that allows a user to:
 - create an account  
@@ -18,7 +18,7 @@ A simple program that allows a user to:
 It uses a basic `Account` class with attributes for storing balance and methods for updating it.
 
 ### 2. Library System
-### File: `a_simple_library_system.py`
+**File:** `a_simple_library_system.py`
 
 A small program that lets a user:
 - add books to the library  
