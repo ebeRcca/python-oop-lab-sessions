@@ -47,12 +47,12 @@ class Library:
         self.members = []  # Registered members list
 
     def add_book(self, book):
-        # append adds a book to the library's collection.
+        # append adds a book to the library's collection
         self.books.append(book)
         print(f"New book: {book.title}")    
         
     def add_member(self, member):
-        # Adds the member info into the library's register
+        # Registers a new Member object
         self.members.append(member)                    
         print(f"New member: {member.name}")  
 
