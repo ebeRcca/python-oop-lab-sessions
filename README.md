@@ -46,7 +46,7 @@ Coupling refers to how dependent modules are on each other. These programs demon
 Abstraction hides unnecessary details and exposes only what is needed. Methods such as `deposit()`, `withdraw()`, `borrow_book()`, and `return_book()` provide clear actions without requiring the user to understand how the data is stored or updated internally. This keeps the interface simple and reduces complexity for anyone using the program.
 
 ### Encapsulation
-Encapsulation bundles data and behaviour together while restricting direct access to internal details. Attributes such as account balances or book availability are stored inside classes and changed only through methods. This prevents accidental modification and ensures that each class controls how its own data is managed.
+Encapsulation bundles data and behaviour together while restricting direct access to internal details. Attributes such `balance` or `status` are stored inside classes and changed only through methods. This prevents accidental modification and ensures that each class controls how its own data is managed.
 
 ### KISS (Keep It Simple)
 The KISS principle encourages keeping code simple and avoiding unnecessary complexity. These programs follow KISS by using straightforward logic, clear method names, and easy‑to‑follow class structures. Each action—such as borrowing a book or depositing money—is implemented in a simple, readable way.
