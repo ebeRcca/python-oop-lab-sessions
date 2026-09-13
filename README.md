@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two Python programs I used for learning the basics of object‑oriented programming (OOP). Each program uses simple classes, attributes, and methods to build a basic system. 
+This repository contains two Python programs used for learning the basics of object‑oriented programming (OOP). Each program uses simple classes, attributes, and methods to build a basic system. 
 
 ## Programs Included
 
@@ -15,7 +15,7 @@ A simple program that allows a user to:
 - withdraw money  
 - check the balance  
 
-It uses a basic `Account` class with attributes for storing balance and methods for updating it.
+This program uses a basic `Account` class with attributes for storing balance and methods for updating it.
 
 ### 2. Library System
 **File:** `simple_library_system.py`
@@ -25,11 +25,11 @@ A simple program that lets a user:
 - register members  
 - borrow and return books for members
 
-It uses classes such as `Book`, `Member`, and `Library` to organise the system’s data and actions.
+This program uses classes such as `Book`, `Member`, and `Library` to organise the system’s data and actions.
 
 ## Purpose
 
-I selected these programs to demonstrate how software design principles appear in simple OOP code. They provide clear examples of basic class structure and how objects interact within a system.
+These programs were chosen to demonstrate how software design principles appear in simple OOP code. They provide clear examples of basic class structure and how objects interact within a system.
 
 ## Software Design Principles Demonstrated
 
