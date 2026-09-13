@@ -18,7 +18,7 @@ A simple program that allows a user to:
 It uses a basic `Account` class with attributes for storing balance and methods for updating it.
 
 ### 2. Library System
-**File:** `a_simple_library_system.py`
+**File:** `simple_library_system.py`
 
 A small program that lets a user:
 - add books to the library  
