@@ -29,7 +29,7 @@ It uses classes such as `Book`, `Member`, and `Library` to organise the systemâ€
 
 ## Purpose
 
-I selected these programs to explain how software design principles are demonstrated in my code. Both programs provide clear examples of basic OOP structure and how classes interact within a system.
+I selected these programs to demonstrate how software design principles appear in simple OOP code. They provide clear examples of basic class structure and how objects interact within a system.
 
 ## Software Design Principles Demonstrated
 
