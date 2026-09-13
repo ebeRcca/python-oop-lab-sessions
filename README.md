@@ -13,7 +13,7 @@ A simple program that allows a user to:
 - create an account  
 - deposit money  
 - withdraw money  
-- check their balance  
+- check the balance  
 
 It uses a basic `Account` class with attributes for storing balance and methods for updating it.
 
