@@ -7,6 +7,8 @@ This folder contains two Python programs I wrote while learning the basics of ob
 ## Programs Included
 
 ### 1. Banking System
+### File: `simple_banking_system.py`
+
 A simple program that allows a user to:
 - create an account  
 - deposit money  
@@ -16,6 +18,8 @@ A simple program that allows a user to:
 It uses a basic `Account` class with attributes for storing balance and methods for updating it.
 
 ### 2. Library System
+### File: `a_simple_library_system.py`
+
 A small program that lets a user:
 - add books to the library  
 - register members  
@@ -55,4 +59,4 @@ Separation of Concerns means dividing a system so each class handles a different
 - `Library` coordinates borrowing, returning, and managing collections
   
 ### Reusability
-Reusability refers to designing classes that can be used in other programs. Classes such as Account, Book, and Member are reusable because they contain self‑contained logic and do not depend on specific program details. They could be used in other banking or library systems with little modification.
+Reusability refers to designing classes that can be used in other programs. Classes such as `Account`, `Book`, and `Member` are reusable because they contain self‑contained logic and do not depend on specific program details. They could be used in other banking or library systems with little modification.
