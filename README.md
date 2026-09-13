@@ -20,7 +20,7 @@ It uses a basic `Account` class with attributes for storing balance and methods 
 ### 2. Library System
 **File:** `simple_library_system.py`
 
-A small program that lets a user:
+A simple program that lets a user:
 - add books to the library  
 - register members  
 - borrow and return books for members
