@@ -49,7 +49,7 @@ Abstraction hides unnecessary details and exposes only what is needed. Methods s
 Encapsulation bundles data and behaviour together while restricting direct access to internal details. Attributes such as `balance` or `status` are stored inside classes and changed only through methods. This prevents accidental modification and ensures that each class controls how its own data is managed.
 
 ### KISS (Keep It Simple)
-The KISS principle encourages keeping code simple and avoiding unnecessary complexity. These programs follow KISS by using straightforward logic, clear method names, and easy‑to‑follow class structures. Each action—such as borrowing a book or depositing money—is implemented in a simple, readable way.
+The KISS principle encourages keeping code simple and avoiding unnecessary complexity. These programs follow KISS by using straightforward logic, clear method names, and easy‑to‑follow class structures. Each action, such as borrowing a book or depositing money, is implemented in a simple, readable way.
 
 ### Separation of Concerns
 Separation of Concerns means dividing a system so each class handles a different responsibility. These programs demonstrate this clearly:
