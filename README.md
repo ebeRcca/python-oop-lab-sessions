@@ -52,11 +52,7 @@ Encapsulation bundles data and behaviour together while restricting direct acces
 The KISS principle encourages keeping code simple and avoiding unnecessary complexity. These programs follow KISS by using straightforward logic, clear method names, and easy‑to‑follow class structures. Each action, such as borrowing a book or depositing money, is implemented in a simple, readable way.
 
 ### Separation of Concerns
-Separation of Concerns means dividing a system so each class handles a different responsibility. These programs demonstrate this clearly:
-- `Account` handles money
-- `Book` handles book data
-- `Member` handles member information
-- `Library` coordinates borrowing, returning, and managing collections
+Separation of Concerns means dividing a system so each class is responsible for a different part of the overall functionality. In both programs, each class has a clear role: `Account` manages money, `Book` stores book information, `Member` keeps track of member details, and `Library` coordinates borrowing, returning, and managing the collection. This shows how each class focuses on its own responsibility without overlapping with others.
   
 ### Reusability
 Reusability refers to designing classes that can be used in other programs. Classes such as `Account`, `Book`, and `Member` are reusable because they contain self‑contained logic and do not depend on specific program details. They could be used in other banking or library systems with little modification.
