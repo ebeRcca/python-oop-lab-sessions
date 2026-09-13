@@ -34,7 +34,7 @@ I selected these programs to explain how software design principles are demonstr
 ## Software Design Principles Demonstrated
 
 ### Modularity
-Modularity refers to breaking a program into smaller, independent modules. In these programs, each module has a clear responsibility. For example the classes demonstrate modularity: `Account` manages balance information, `Book` stores single book details, and `Member` stores member information. This separation makes the system easier to understand and maintain.
+Modularity refers to breaking a program into smaller, independent modules. In these programs, each module has a clear responsibility. The classes demonstrate modularity through their focused roles: `Account` manages balance information, `Book` stores single book details, and `Member` stores member information. This separation makes the system easier to understand and maintain.
 
 ### Cohesion
 Cohesion describes how closely related the elements of a module are. In these programs, classes such as `Account`, `Book`, and `Member` show high cohesion because the attributes and methods inside each class relate to the same area of responsibility. The `Library` class has lower cohesion because it combines several responsibilities such as managing books, members, and borrowing, although all of these still relate to the overall purpose of coordinating the library system. This is common in small beginner programs where one class handles the main system operations.
